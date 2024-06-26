@@ -53,6 +53,8 @@ body{
 .section-title{
     color: orange;
     font-size: 40px;
+    display: flex;
+    justify-content: center;
 }
 .katooni-wrraper{
     display: flex;
